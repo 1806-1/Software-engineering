@@ -1,0 +1,6 @@
+罗顺德：学习了java的数据库连接和java与JavaScript的连接；
+左沈强：能看懂html和css   java操作数据库学了JDBC和Mybatis；
+冯梦龙：javascript会一点，能看懂一些；
+刘硕：WebView中Java与JavaS cript的交互，还有Java与数据库的连接；
+陈阳：数据库课设用的java；
+滕赫：看连接数据库

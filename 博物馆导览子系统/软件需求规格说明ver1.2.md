@@ -62,7 +62,7 @@
 
 使用本系统的用户的整体活动图如下：
 
-![活动图](活动图.png)
+![活动图](./png/活动图.png)
 
 ### 2.4 一般性限制
 
@@ -110,7 +110,7 @@ Web服务器：
 
 用户的UML用例图：
 
-<img src="用例图.png" alt="用例图" style="zoom:50%;" />
+<img src="./png/用例图.png" alt="./png/用例图" style="zoom:50%;" />
 
 系统优先级说明：
 
@@ -274,39 +274,39 @@ Web服务器：
 
 - **注册页面：**
 
-<img src="注册.png" alt="注册" style="zoom:80%;" />
+<img src="./png/注册.png" alt="./png/注册" style="zoom:80%;" />
 
 
 
 - **登陆页面：**
 
-<img src="登录.png" alt="登录" style="zoom:80%;" />
+<img src="./png/登录.png" alt="./png/登录" style="zoom:80%;" />
 
 
 
 - **地图页面：**
 
-<img src="地图.png" alt="地图" style="zoom:80%;" />
+<img src="./png/地图.png" alt="./png/地图" style="zoom:80%;" />
 
 
 
 - **博物馆信息浏览页面：**
 
-<img src="信息浏览1.png" alt="信息浏览1" style="zoom:80%;" />
+<img src="./png/信息浏览1.png" alt="./png/信息浏览1" style="zoom:80%;" />
 
-<img src="信息浏览2.png" alt="信息浏览2" style="zoom:80%;" />
+<img src="./png/信息浏览2.png" alt="./png/信息浏览2" style="zoom:80%;" />
 
 
 
 - **上传讲解页面：**
 
-<img src="提交讲解.png" alt="提交讲解" style="zoom:80%;" />
+<img src="./png/提交讲解.png" alt="./png/提交讲解" style="zoom:80%;" />
 
 
 
 - **管理个人信息页面：**
 
-<img src="个人信息.png" alt="个人信息" style="zoom:80%;" />
+<img src="./png/个人信息.png" alt="./png/个人信息" style="zoom:80%;" />
 
 
 
